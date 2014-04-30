@@ -3,6 +3,8 @@ rcpsp_simulated_annealing
 
 Simulated Annealing implementation for the Resource Constrained Project Scheduling Problem
 
+![asd sample](https://github.com/mrvaldes/rcpsp_simulated_annealing/raw/master/120.png)
+
 Compile using make. The tree also contains a .pro file from QtCreator:
 <pre>
 $ cd sa-build-desktop/
